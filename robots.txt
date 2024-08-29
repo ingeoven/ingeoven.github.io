@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingeoven.github.io/sitemap.html.gz
+Sitemap: https://ingeoven.github.io/app/sitemap.html.gz
+Sitemap: https://ingeoven.github.io/assets/sitemap.html.gz
+Sitemap: https://ingeoven.github.io/css/sitemap.html.gz
+Sitemap: https://ingeoven.github.io/includes/sitemap.html.gz
+Sitemap: https://ingeoven.github.io/item/sitemap.html.gz
+Sitemap: https://ingeoven.github.io/src/sitemap.html.gz
